@@ -1,0 +1,18 @@
+{
+  "--begin--": "该设备为随机生成，丢失后不能得到原先配置",
+  "product": "ILPP-BB956",
+  "device": "F6F83",
+  "board": "93D8C",
+  "brand": "334F",
+  "model": "ILPP D2A8",
+  "wifi_ssid": "HUAWEI-571d677",
+  "bootloader": "U-boot",
+  "android_id": "IL.1986902.4300",
+  "boot_id": "dd44cf3f-27f8-b71d-cf9c-dd5daedd06c5",
+  "proc_version": "Linux version 5.10.101-android12-e6fc86d1",
+  "mac_address": "2D:05:C4:57:13:64",
+  "ip_address": "192.168.74.28",
+  "imei": "864858262317532",
+  "incremental": "EE43DEC4A6",
+  "--end--": "修改后可能需要重新验证设备。"
+}

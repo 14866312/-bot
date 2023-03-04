@@ -1,0 +1,145 @@
+{
+	"2023": {
+		"1": {
+			"uid": 120410951,
+			"region": "cn_gf01",
+			"account_id": 191512547,
+			"nickname": "海王不是我",
+			"date": "2023-03-04",
+			"month": 3,
+			"optional_month": [
+				1,
+				2,
+				3
+			],
+			"data_month": 1,
+			"data_last_month": 12,
+			"day_data": {
+				"current_primogems": 0,
+				"current_mora": 0,
+				"last_primogems": 0,
+				"last_mora": 0
+			},
+			"month_data": {
+				"current_primogems": 0,
+				"current_mora": 0,
+				"last_primogems": 1600,
+				"last_mora": 0,
+				"current_primogems_level": 0,
+				"primogems_rate": -100,
+				"mora_rate": 0,
+				"group_by": []
+			},
+			"lantern": false,
+			"isUpdate": true
+		},
+		"2": {
+			"uid": 120410951,
+			"region": "cn_gf01",
+			"account_id": 191512547,
+			"nickname": "海王不是我",
+			"date": "2023-03-04",
+			"month": 3,
+			"optional_month": [
+				1,
+				2,
+				3
+			],
+			"data_month": 2,
+			"data_last_month": 1,
+			"day_data": {
+				"current_primogems": 0,
+				"current_mora": 0,
+				"last_primogems": 0,
+				"last_mora": 0
+			},
+			"month_data": {
+				"current_primogems": 10038,
+				"current_mora": 9570480,
+				"last_primogems": 0,
+				"last_mora": 0,
+				"current_primogems_level": 4,
+				"primogems_rate": 1003800,
+				"mora_rate": 957048000,
+				"group_by": [
+					{
+						"action_id": 1,
+						"action": "冒险奖励",
+						"num": 5891,
+						"percent": 59
+					},
+					{
+						"action_id": 2,
+						"action": "任务奖励",
+						"num": 1960,
+						"percent": 20
+					},
+					{
+						"action_id": 4,
+						"action": "深境螺旋",
+						"num": 700,
+						"percent": 7
+					},
+					{
+						"action_id": 6,
+						"action": "活动奖励",
+						"num": 600,
+						"percent": 6
+					},
+					{
+						"action_id": 3,
+						"action": "每日活跃",
+						"num": 480,
+						"percent": 5
+					},
+					{
+						"action_id": 5,
+						"action": "邮件奖励",
+						"num": 300,
+						"percent": 2
+					},
+					{
+						"action_id": 0,
+						"action": "其他",
+						"num": 107,
+						"percent": 1
+					}
+				]
+			},
+			"lantern": false,
+			"isUpdate": true
+		},
+		"3": {
+			"uid": 120410951,
+			"region": "cn_gf01",
+			"account_id": 191512547,
+			"nickname": "海王不是我",
+			"date": "2023-03-04",
+			"month": 3,
+			"optional_month": [
+				1,
+				2,
+				3
+			],
+			"data_month": 3,
+			"data_last_month": 2,
+			"day_data": {
+				"current_primogems": 0,
+				"current_mora": 0,
+				"last_primogems": 0,
+				"last_mora": 0
+			},
+			"month_data": {
+				"current_primogems": 0,
+				"current_mora": 0,
+				"last_primogems": 10038,
+				"last_mora": 9570480,
+				"current_primogems_level": 0,
+				"primogems_rate": -100,
+				"mora_rate": -100,
+				"group_by": []
+			},
+			"lantern": false
+		}
+	}
+}
